@@ -1,1 +1,1 @@
-this is a content.
+https://hexo.io/zh-cn/docs/commands
